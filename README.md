@@ -87,7 +87,7 @@ lung-nodule-detection/
 
 下图是加入全局注意力机制(Global Attention Mechanism, GAM)的YOLOv11模型结构: 
 
-![YOLOv11m_GAM_Attention模型结构图](images/YOLOv11m_GAM_Attention.png)
+![YOLOv11m_GAM_Attention模型结构图](lung-nodule-detection/images/YOLOv11m_GAM_Attention.png)
 
 GAM由通道注意力子模块和空间注意力子模块组成，按顺序处理输入特征图。
    - 通道注意力子模块：使用3D排列和两层MLP（多层感知机）来捕捉跨维度的通道-空间依赖关系。
