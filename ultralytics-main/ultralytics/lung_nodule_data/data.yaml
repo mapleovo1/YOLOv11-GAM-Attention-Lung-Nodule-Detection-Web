@@ -1,0 +1,5 @@
+names:
+- nodule
+nc: 1
+train: /home/u20212141040/yolov11/ultralytics-main/ultralytics/zym/images/train
+val: /home/u20212141040/yolov11/ultralytics-main/ultralytics/zym/images/val
