@@ -40,7 +40,7 @@ lung-nodule-detection/
 
 1. 克隆或下载本项目代码
    ```
-   git clone 
+   git clone https://github.com/mapleovo1/YOLOv11-GAM-Attention-Lung-Nodule-Detection-Web.git
    ```
 2. 安装所需依赖：
    ```
