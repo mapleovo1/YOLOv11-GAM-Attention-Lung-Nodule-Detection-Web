@@ -51,10 +51,9 @@ lung-nodule-detection/
 
 | Model                       | size (pixels) |  mAP<sup>val</sup><sub>50</sub> | mAP<sup>val</sup><sub>50–95</sub> | Layers | params (M) | FLOPs (B)  |
 |-----------------------------|---------------|---|-----------------------------------|--------|---|---|
-| [YOLOv11m_GAM_Attention](#) | 640           | 0.888  | 0.587                             |   149    | 23.9 |  80.2 |
-| [YOLO11m](#)                | 640           |  0.859 | 0.579                             |   125    | 20.0 |  67.6 |
+| [YOLOv11m_GAM_Attention](https://github.com/mapleovo1/YOLOv11-GAM-Attention-Lung-Nodule-Detection-Web/releases/download/v1.0/YOLOv11m_GAM_Attention.pt) | 640           | 0.888  | 0.587                             |   149    | 23.9 |  80.2 |
+| [YOLO11m](https://github.com/mapleovo1/YOLOv11-GAM-Attention-Lung-Nodule-Detection-Web/releases/download/v1.0/YOLOv11m.pt)                | 640           |  0.859 | 0.579                             |   125    | 20.0 |  67.6 |
 
-   - 
    - 将`app.py`的 `best.pt` 替换成下载的GAMA_YOLO11m模型权重文件并放在项目根目录
    - 将中文字体文件 `simhei.ttf` 放在 `static/fonts/` 目录下
 
