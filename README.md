@@ -1,7 +1,7 @@
 # 基于YOLOv11m_GAM_Attention的肺结节检测系统
 
 ## 项目结构
-
+对于ultralytics-main，本项目基于 [Ultralytics 官方代码](https://github.com/ultralytics/ultralytics) 进行改进。
 ```
 lung-nodule-detection/
 │
